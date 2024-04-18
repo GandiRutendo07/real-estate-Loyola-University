@@ -1,0 +1,172 @@
+<!-- listings section starts  -->
+
+
+<section class="listings">
+
+   <h1 class="heading">All Listings</h1>
+   
+   <div class="box-container">
+
+       <div class="box">
+           <div class="admin">
+               <h3>R</h3>
+           <div>
+               <p>Rutendo Gandi</p>
+               <span>13-01-2024</span>
+           </div>
+           </div>   
+           <div class="thumb">
+            <p class="total-images"><i class="fa far-image"></i><span>4</span></p>   
+             <p class="type"><span>Flat</span><span>sale</span></p>
+             <form action="" method="post" class="save">
+                 <button type="submit please" class="far fa-heart"></button>
+             </form>
+             <img src="images/property-4.jpg" alt="">
+           </div>
+           <h3 class="name">Morden flats and apartments</h3>
+           <p class="location"><i class="fa-solid fa-map-marker-alt"></i><span>Emma Kambasha’s Impressive Home in Highlands, Harare North</span></p>
+           <div class="flex">
+               <p><i class="fa-solid fa-bed"></i><span>3</span></p>
+               <p><i class="fa-solid fa-bath"></i><span>2</span></p>
+               <p><i class="fa-solid fa-maximize"></i><span>750sqft</span></p>
+           </div>
+           <a href="view_property.html" class="btn">view_property</a>
+
+       </div>
+
+       <div class="box">
+           <div class="admin">
+               <h3>P</h3>
+           <div>
+               <p>Paula Fernandaz</p>
+               <span>26-03-2024</span>
+           </div>
+           </div>
+           <div class="thumb">
+            <p class="total-images"><i class="far fa-image"></i><span>4</span></p>   
+             <p class="type"><span>House</span><span>sale</span></p>
+             <form action="" method="post" class="save">
+                 <button type="submit please" class="far fa-heart"></button>
+             </form>
+             <img src="images/property-2.jpeg" alt="">
+           </div>
+           <h3 class="name">Morden flats and apartments</h3>
+           <p class="location"><i class="fa-solid fa-map-marker-alt"></i><span>Borrowdale Brooke , Harare</span></p>
+           <div class="flex">
+               <p><i class="fa-solid fa-bed"></i><span>4</span></p>
+               <p><i class="fa-solid fa-bath"></i><span>5</span></p>
+               <p><i class="fa-solid fa-maximize"></i><span>970sqft</span></p>
+           </div>
+           <a href="view_property.html" class="btn">view_property</a>
+   </div>
+
+       <div class="box">
+           <div class="admin">
+               <h3>L</h3>
+           <div>
+               <p>Luciano Guevio</p>
+               <span>30-02-2024</span>
+           </div>
+           </div>
+           <div class="thumb">
+            <p class="total-images"><i class="far fa-image"></i><span>5</span></p>   
+             <p class="type"><span>Malls and Shops</span><span>sale</span></p>
+             <form action="" method="post" class="save">
+                 <button type="submit please" class="far fa-heart"></button>
+             </form>
+             <img src="images/property-1.jpg" alt="">
+           </div>
+           <h3 class="name">Morden flats and apartments</h3>
+           <p class="location"><i class="fa-solid fa-map-marker-alt"></i><span>Brook Ridge Mountain House</span></p>
+           <div class="flex">
+               <p><i class="fa-solid fa-bed"></i><span>6</span></p>
+               <p><i class="fa-solid fa-bath"></i><span>4</span></p>
+               <p><i class="fa-solid fa-maximize"></i><span>840sqft</span></p>
+           </div>
+           <a href="view_property.html" class="btn">view_property</a>
+       </div>
+       <div class="box">
+           <div class="admin">
+               <h3>J</h3>
+           <div>
+               <p>John Molelo</p>
+               <span>30-12-2023</span>
+           </div>
+           </div>
+           <div class="thumb">
+            <p class="total-images"><i class="far fa-image"></i><span>5</span></p>   
+             <p class="type"><span>Malls and Shops</span><span>sale</span></p>
+             <form action="" method="post" class="save">
+                 <button type="submit please" class="far fa-heart"></button>
+             </form>
+             <img src="images/property-8.jpg" alt="">
+           </div>
+           <h3 class="name">Morden flats and apartments</h3>
+           <p class="location"><i class="fa-solid fa-map-marker-alt"></i><span>Harrodos Malls</span></p>
+           <div class="flex">
+               <p><i class="fa-solid fa-bed"></i><span>6</span></p>
+               <p><i class="fa-solid fa-bath"></i><span>4</span></p>
+               <p><i class="fa-solid fa-maximize"></i><span>840sqft</span></p>
+           </div>
+           <a href="view_property.html" class="btn">view_property</a>
+       </div>
+
+       <div class="box">
+           <div class="admin">
+               <h3>A</h3>
+           <div>
+               <p>Andrew Mapfacha</p>
+               <span>30-04-2024</span>
+           </div>
+           </div>
+           <div class="thumb">
+            <p class="total-images"><i class="far fa-image"></i><span>5</span></p>   
+             <p class="type"><span>Malls and Shops</span><span>sale</span></p>
+             <form action="" method="post" class="save">
+                 <button type="submit please" class="far fa-heart"></button>
+             </form>
+             <img src="images/property-11.jpg" alt="">
+           </div>
+           <h3 class="name">Morden flats and apartments</h3>
+           <p class="location"><i class="fa-solid fa-map-marker-alt"></i><span>Broosea Malls</span></p>
+           <div class="flex">
+               <p><i class="fa-solid fa-bed"></i><span>6</span></p>
+               <p><i class="fa-solid fa-bath"></i><span>5</span></p>
+               <p><i class="fa-solid fa-maximize"></i><span>730sqft</span></p>
+           </div>
+           <a href="view_property.html" class="btn">view_property</a>
+       </div>
+       <div class="box">
+           <div class="admin">
+               <h3>Z</h3>
+           <div>
+               <p>Zig Sharko</p>
+               <span>30-02-2024</span>
+           </div>
+           </div>
+           <div class="thumb">
+            <p class="total-images"><i class="far fa-image"></i><span>5</span></p>   
+             <p class="type"><span>House</span><span>sale</span></p>
+             <form action="" method="post" class="save">
+                 <button type="submit please" class="far fa-heart"></button>
+             </form>
+             <img src="images/property-12.jpg" alt="">
+           </div>
+           <h3 class="name">Morden flats and apartments</h3>
+           <p class="location"><i class="fa-solid fa-map-marker-alt"></i><span>lyland-side</span></p>
+           <div class="flex">
+               <p><i class="fa-solid fa-bed"></i><span>6</span></p>
+               <p><i class="fa-solid fa-bath"></i><span>4</span></p>
+               <p><i class="fa-solid fa-maximize"></i><span>840sqft</span></p>
+           </div>
+           <a href="view_property.html" class="btn">view_property</a>
+       </div>
+
+
+   </div>
+   <div style="margin-top: 2rem; text-align:center;">
+       <a href="listings.html" class="inline-btn">View all Properties</a>
+   </div>
+</section>
+
+<!-- listings section ends -->
